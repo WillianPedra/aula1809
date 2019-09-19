@@ -1,1 +1,2 @@
-Primeira Aula de GIT
+Linha removida
+Commit com vscode
